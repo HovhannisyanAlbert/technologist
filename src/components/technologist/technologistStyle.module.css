@@ -1,0 +1,20 @@
+.technologist {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 50px;
+}
+
+.technologisList {
+  display: flex;
+  justify-content: space-around;
+  width: inherit;
+  background-color: #00ffff;
+}
+
+.links {
+  text-decoration: none;
+  font-size: 20px;
+  color:#663399;
+  font-weight:600;
+}

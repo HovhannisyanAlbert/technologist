@@ -1,0 +1,16 @@
+.dateRange{
+    display: flex;   
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+       
+}
+
+.dateCard{
+    display: flex;
+    gap: 20px;
+}
+
+.progressing{
+    margin-top: 20px;
+}

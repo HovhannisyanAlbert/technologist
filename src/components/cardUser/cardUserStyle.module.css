@@ -1,0 +1,36 @@
+.cardUser {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardsItems {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  gap: 10px;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+}
+
+.addBtn {
+  border: none;
+  background-color: blue;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  width: 150px;
+  height: 48px;
+}
+
+.buttonContainer {
+  margin: 0 auto;
+}
